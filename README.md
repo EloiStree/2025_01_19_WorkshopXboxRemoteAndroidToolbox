@@ -1,6 +1,8 @@
 
 # Workshop: Xbox Remote Android Toolbox
 
+Following:  https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md
+
 ## Objectifs de la journée de cours
 
 Deux objectifs ce jour de cours :
