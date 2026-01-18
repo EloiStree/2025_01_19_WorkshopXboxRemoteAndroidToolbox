@@ -5,7 +5,11 @@ Précédemment : [https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharp
 
 **Solution:**
 - https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp
+  
+**Pour tester votre solution:**
 - https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplayer
+  - https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate
+
 
 Hey hey 😋
 J’ai hésité longtemps sur l’atelier de remplacement de [Hordes.io](https://hordes.io).  
