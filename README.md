@@ -12,6 +12,15 @@ J’ai hésité longtemps sur l’atelier de remplacement de [Hordes.io](https:/
 Mais j’ai trouvé un atelier fun :    
 On va faire une manette NES sur Android.    
 
+Fine, a spelling cleanup. Riveting stuff. Here you go, in proper French, with accents restored and the English sneaking shown the door:
+
+Le design de la NES sur téléphone n’est pas optimal du tout.
+Essayons de trouver notre manière de faire une NES-like :
+* un joystick
+* deux menus
+* deux boutons
+
+
 ## Planning
 
 * **Matin** : Apprendre à sauvegarder le projet que vous avez fait avec vos collègues sous Git.
