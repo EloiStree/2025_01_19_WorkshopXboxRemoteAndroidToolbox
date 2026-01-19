@@ -98,10 +98,10 @@ Pour tester notre manette :
 
 **Vidéo : montage de l’exercice :**
 
+* Faire un joystick sur Android avec Unity: [https://youtu.be/ABI1LT5szes](https://youtu.be/ABI1LT5szes)
 * Step by step de la manette NES : [https://youtu.be/SHLRBrYZp-s](https://youtu.be/SHLRBrYZp-s)
 * Créer un jeu NES multijoueur : [https://youtu.be/GlQAoQJvU0c](https://youtu.be/GlQAoQJvU0c)
 * Ajouter une façade de code sur la commande NES : [https://youtu.be/OrGNXlfH70s](https://youtu.be/OrGNXlfH70s)
 * Input mapping sur le contrôleur NES : [https://youtu.be/YHsY6f2ZJqA](https://youtu.be/YHsY6f2ZJqA)
-
 
 
